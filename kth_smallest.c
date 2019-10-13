@@ -23,7 +23,7 @@ int main()
     printf("enter the value of k");
     scanf("%d",&k);
    
-        printf("%d",a[i]);
+        printf("%d",a[k-1]);
    
     return 0;
 }
