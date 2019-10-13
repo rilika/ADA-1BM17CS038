@@ -22,9 +22,8 @@ int main()
     }
     printf("enter the value of k");
     scanf("%d",&k);
-    for(i=0;i<k-1;i++)
-    { 
+   
         printf("%d",a[i]);
-    }
+   
     return 0;
 }
