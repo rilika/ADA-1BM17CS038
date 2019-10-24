@@ -4,7 +4,7 @@
 
 bool isHeap(int arr[], int i, int n) 
 { 
-// If a leaf node 
+
 if (i > (n - 2)/2) 
     return true; 
   
